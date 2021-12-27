@@ -1,9 +1,6 @@
 # Mental-Health-Covid-19-Mental-Health
-Covid-19 Mental Health Dataset is a dataset derived from twitter and its composition is made from the tweets of many users concerning topics related to mental health during the current Covid-19 Global Pandemic. 
-Covid-19 Mental Health Dataset
 ## Nawaf Alhumadi, Ifeanyi Osuchukwu
-
->Covid-19 Mental Health Dataset is a dataset derived from twitter and its composition is made from the tweets of many users concerning topics related to mental health during the current Covid-19 Global Pandemic. 
+Covid-19 Mental Health Dataset is a dataset derived from twitter and its composition is made from the tweets of many users concerning topics related to mental health during the current Covid-19 Global Pandemic. 
 
 ### Covid-19 Mental Health Dataset
 Using Snscrape we were able to acquire data by collecting tweets involving the association of mental health and COVID-19 from  nearly the last two months . Snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items.
