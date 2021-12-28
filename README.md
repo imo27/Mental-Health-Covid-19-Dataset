@@ -1,5 +1,5 @@
 # Mental-Health-Covid-19-Mental-Health
-## Ifeanyi Osuchukwu Nawaf Alhumadi
+## Ifeanyi Osuchukwu and Nawaf Alhumadi
 Covid-19 Mental Health Dataset is a dataset derived from twitter and its composition is made from the tweets of many users concerning topics related to mental health during the current Covid-19 Global Pandemic. 
 
 ### Covid-19 Mental Health Dataset
