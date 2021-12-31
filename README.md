@@ -65,8 +65,7 @@ RAW_DATA.csv: This file is the raw data scraped from twitter.
 log.log: This file is a log containing information on how the code is running. 
 Group7_final_project.iynb: This file houses the python logic to run our code which acquires and processes tweets using Snscrape and places the processed data into a python dataframe. 
 Example_Code.iynb: This file is the the same code used to run our code but with examples and markdowns used to better understand our code.It also contains the ReadMe.md contents as well.  
-data_profile_report.html: This file profiles our data and its values. 
-Miro_Presentation.pdf: This file is our presentation of our project. Please note we have made major changes to how we acquire tweets and we don't utilize twython.
+Pandas Profiling Report: This file profiles our data and its values. 
 
 
 ######  Functions
